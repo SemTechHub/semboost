@@ -64,6 +64,10 @@ html[xmlns] .clearfix {
   height: 1%;
 }
 
+html {
+	zoom: 89%;
+}
+
 ul, li {
   padding: 0;
   margin: 0;
