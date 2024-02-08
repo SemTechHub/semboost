@@ -808,6 +808,11 @@ features
   z-index: 2;
 }
 
+.features-small-item.text-center {
+  text-align: center;
+}
+
+
 .features-small-item p {
   font-weight: 400;
   font-size: 16x;
