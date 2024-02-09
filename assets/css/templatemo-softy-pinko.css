@@ -723,7 +723,7 @@ welcome
     margin-bottom: 100px;
   }
   .welcome-area .header-text {
-    top: 50% !important;
+    top: 53% !important;
     transform: perspective(1px) translateY(-50%) !important;
     text-align: center;
   }
