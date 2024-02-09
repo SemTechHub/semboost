@@ -755,6 +755,7 @@ features
 --------------------------------------------- 
 */
 .features-small-item {
+  top: 60%;
   cursor: pointer;
   display: block;
   background: #FFFFFF;
